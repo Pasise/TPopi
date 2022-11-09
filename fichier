@@ -1,0 +1,12 @@
+Q2) Le répertoire crée est ./git
+Q3) On a crée le fichier "fichier"
+Q4) La commande git status affiche l'état dans lequel on se trouve il nous montre ce qui 
+e été modifié, supprimé, ajouté, renommé, qu'est ce qui attend d'etre commiter 
+Q5) Le statut de notre fichier après git add est en git   
+Q6) Statut de repertoire:  Sur la branche master
+rien à valider, la copie de travail est propre
+Q7) git log -p affiche les journaux de validation
+Q8) On modifie à présent le document 
+Q9) git diff nous indique les modifications opérées entre le dernier commit et la dernière modification
+Q10) Fait 
+Q11) Je vois mon "fichier" dans le dépot sur le serveur 
